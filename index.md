@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # L3/M1/M2 : Utilisation de logiciel `R`
 
-[R à Pari s8](https://p8ecoge.github.io/rp8/).
+[R à Paris 8](https://p8ecoge.github.io/rp8/).
 
 ## Header 2
 

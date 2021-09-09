@@ -10,6 +10,6 @@ Ces ressources sont rassemblées par thématiques, et éventuellement par niveau
 
 ## Utilisation de R et RStudio
 
-[Une introduction à R et à l'économétrie avec R, niveau L3 à M2](https://p8ecoge.github.io/rp8/).
+[Une introduction à R et à l'économétrie avec R, niveau L3 et M1](https://p8ecoge.github.io/rp8/).
 
 

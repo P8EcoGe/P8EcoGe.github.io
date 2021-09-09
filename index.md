@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+Ce site rassemble les ressources mises à disposition des enseignants de l'UFR AES-Économe-Gestion de l'Université Paris 8
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# L3/M1/M2 : Utilisation de logiciel `R`
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[R à Pari s8](https://p8ecoge.github.io/rp8/).
 
 ## Header 2
 

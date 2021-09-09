@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-Ce site rassemble les ressources mises à disposition des enseignants de l'UFR AES-Économie-Gestion de l'Université Paris 8
-
 
 
 # L3/M1/M2 Économie : Utilisation de `R`

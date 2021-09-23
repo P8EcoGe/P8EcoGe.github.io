@@ -12,4 +12,4 @@ Ces ressources sont rassemblées par thématiques, et éventuellement par niveau
 
 [Une introduction à R et à l'économétrie avec R, niveau L3 et M1](https://p8ecoge.github.io/rp8/).
 
-
+[Introduction à R et au tidyverse](https://juba.github.io/tidyverse/), ressource externe écrite par Julien Barnier (CNRS)
